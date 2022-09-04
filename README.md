@@ -27,6 +27,10 @@
   <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Leetcode" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=" />
+  <img alt="HackerRank" src="https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=" />
+  <img alt="FreeCodeCamp" src="https://img.shields.io/static/v1?style=for-the-badge&message=freeCodeCamp&color=0A0A23&logo=freeCodeCamp&logoColor=FFFFFF&label=" />
+  <img alt="SoloLearn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sololearn&color=149EF2&logo=Sololearn&logoColor=FFFFFF&label=" />
   <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
   <img alt="Visual Studio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" />
   <img alt="Sublime Text" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" />
