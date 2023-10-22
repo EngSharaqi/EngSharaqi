@@ -42,7 +42,6 @@
       <!--<img alt="Mohamed Sharaqi's Github summery" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Engsharaqi&theme=github_dark&hide_border=true" style="width: 100%" />-->
    </div>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/EngSharaqi/EngSharaqi/output/snake.svg" alt="Sharaqi's Snake Game" />
 <h3>👨‍💻💻 Technologies, Frameworks and Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
